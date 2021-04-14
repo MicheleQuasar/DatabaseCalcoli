@@ -38,3 +38,11 @@ Da definire
 - Calcolo effettuato da
 - Lista guarnizioni (comma separated list *TODO? aggiungere )
 - Lista allumini (comma separated list *TODO? aggiungere )
+
+    
+## Istruzione operativa
+
+### Regole creazione e compilazione file
+
+- Ogni file excel può contenere nodi da *una sola anagrafica*, il nome del file excel deve *coincidere con il nome dell'anagrafica*.
+- La pagina con i dettagli dei nodi va compilata con un nodo per riga **senza** righe bianche fra i nodi
